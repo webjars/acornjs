@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>acorn</artifactId>
-    <version>0.5.0</version>
+    <version>0.5.1-SNAPSHOT</version>
     <name>acorn</name>
     <description>WebJar for acorn</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/acornjs</url>
         <connection>scm:git:https://github.com/webjars/acornjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/acornjs.git</developerConnection>
-        <tag>acorn-0.5.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
