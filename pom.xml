@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/acorn</url>
-        <connection>scm:git:https://github.com/webjars/acorn.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/acorn.git</developerConnection>
+        <url>http://github.com/webjars/acornjs</url>
+        <connection>scm:git:https://github.com/webjars/acornjs.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/acornjs.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
